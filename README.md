@@ -18,3 +18,5 @@
  
  Sou um sujeito simples apaixona por tecnologia, cinema, games e música. Vivendo e aprendendo.
  
+ 
+ ![snake gif](https://github.com/DaviRestani/DaviRestani/blob/output/github-contribution-grid-snake.svg)
