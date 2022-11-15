@@ -16,5 +16,5 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  </div><br/>
  
- 
+ Sou um sujeito simples apaixona por tecnologia, cinema, games e música. Vivendo e aprendendo.
  
