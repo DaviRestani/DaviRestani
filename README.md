@@ -20,4 +20,4 @@
 I'm a simple person who likes movies, games and music. Living and learning.
  
  
- ![snake gif](https://github.com/DaviRestani/DaviRestani/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DaviRestani/DaviRestani/blob/output/github-contribution-grid-snake.svg)
